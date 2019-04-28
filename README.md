@@ -19,11 +19,10 @@ node liri.js spotify-this-song '<song name here>'
 node liri.js movie-this '<movie name here>'
 node liri.js do-what-it-says
 ```
-A video demonstration of the returned data for each command can be found here:
+### A video demonstration of the returned data for each command can be found here:
 
 https://drive.google.com/file/d/1b17cJmmjorYyLe-uJ3SZGFroBGsr7NyJ/view
 ## API Credits
 * Spotify
 * Bands in Town
-* OMBD
-
+* OMDB
